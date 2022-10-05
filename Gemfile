@@ -59,4 +59,4 @@ group :test do
   gem "webdrivers"
 end
 
-gem "redcarpet"
+gem "maildown"
